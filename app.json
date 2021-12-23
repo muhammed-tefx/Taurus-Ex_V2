@@ -1,7 +1,7 @@
 {
   "name": "TAURUS-EX",
   "description": "Taurus ex build with nodejs by muhammed",
-  "repository": "https://github.com/muhammed-usrbot/Taurus-Ex",
+  "repository": "https://github.com/muhammed-usrbot/Taurus-Ex_v2",
   "logo": "https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
