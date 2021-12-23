@@ -26,7 +26,7 @@
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/template=https://github.com/muhammed-tefx/Taurus-Ex_V2) 
 <p align="center">
  <a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-Muhammed-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+918157849715?&text=Hello%20Taurus%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-muhammed-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
